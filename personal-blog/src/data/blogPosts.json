@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to My Personal Blog",
+    "content": "This is my first blog post using my new personal blog application. This application allows me to create, read, update, and delete blog posts.\n\nI built this application using React for the frontend and Express for the backend API. The data is stored in a simple JSON file, which makes it perfect for a personal blog without needing a database.\n\nFeatures:\n- View all blog posts\n- Read individual posts\n- Create new posts\n- Edit existing posts\n- Delete posts\n\nFeel free to explore the application and create your own posts!\n\nwhat is the name of this final project what can I do\n",
+    "date": "2025-05-06T15:15:42.329Z",
+    "updated": "2025-05-06T15:20:25.875Z"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with React",
+    "content": "React is a popular JavaScript library for building user interfaces. It was developed by Facebook and is now maintained by Facebook and a community of individual developers and companies.\n\nHere are some key features of React:\n\n1. **Component-Based Architecture**: React applications are built using components, which are reusable, self-contained pieces of code.\n\n2. **Virtual DOM**: React uses a virtual DOM to optimize rendering performance, making it efficient for complex UIs.\n\n3. **Declarative Syntax**: React uses JSX, a syntax extension that allows you to write HTML-like code in your JavaScript.\n\n4. **Unidirectional Data Flow**: Data in React flows in one direction, making your application more predictable and easier to debug.\n\nTo get started with React, you first need to install Node.js and npm. Then you can create a new React application using Create React App:\n\n```\nnpx create-react-app my-app\ncd my-app\nnpm start\n```\n\nThis will set up a new React project with all the necessary configurations and start a development server.",
+    "date": "2025-05-06T15:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "What is tesla doing? ",
+    "content": "Tesla is going down the fill man. ",
+    "date": "2025-05-06T15:20:56.779Z"
+  }
+]
